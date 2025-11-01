@@ -27,7 +27,7 @@ Source: [Credit Score Classification Dataset](https://www.kaggle.com/datasets/pa
 - Visualized the distribution of Credit Score categories.
 - Visualized the Annual Income vs Credit Score.
 -  Visualized the History Age Distribution
-- Plotted Correlation Heatmap (Pearson) and Mutual Information Scores to identify top predictive features.
+- Plotted Correlation Heatmap.
 
 ----------------------------------------------------------------------------------------
 
